@@ -1,2 +1,2 @@
 # prueba--colaboracion
-clase de prueba tecnologias computacionales
+este repositorio debe de funcionar como prueba de clase de prueba tecnologias computacionales
